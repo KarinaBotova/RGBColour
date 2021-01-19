@@ -1,0 +1,25 @@
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\obj\Debug\RGBControl.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.RGBControl.resources
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.NumberTextBox.resources
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\obj\Debug\RGBControl.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\obj\Debug\RGBControl.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\YandexDisk\Projects\RGBControl\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\YandexDisk\Projects\RGBControl\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\YandexDisk\Projects\RGBControl\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.RGBControl.resources
+E:\YandexDisk\Projects\RGBControl\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.NumberTextBox.resources
+E:\YandexDisk\Projects\RGBControl\WindowsFormsControlLibrary1\obj\Debug\RGBControl.csproj.GenerateResource.cache
+E:\YandexDisk\Projects\RGBControl\WindowsFormsControlLibrary1\obj\Debug\RGBControl.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Projects\RGBControl\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+E:\YandexDisk\Projects\RGBControl\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.RGBControl.resources
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.NumberTextBox.resources
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsControlLibrary1\obj\Debug\RGBControl.csproj.GenerateResource.cache
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsControlLibrary1\obj\Debug\RGBControl.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

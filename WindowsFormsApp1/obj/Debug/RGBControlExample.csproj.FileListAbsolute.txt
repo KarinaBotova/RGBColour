@@ -1,0 +1,52 @@
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\obj\Debug\RGBControlExample.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRGB.resources
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.CopyComplete
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Downloads\Ђ†°† 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\obj\Debug\RGBControlExample.csprojAssemblyReference.cache
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRGB.resources
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.GenerateResource.cache
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.CopyComplete
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\YandexDisk\Projects\RGBControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\obj\Debug\RGBControlExample.csprojAssemblyReference.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRGB.resources
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.GenerateResource.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.CoreCompileInputs.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.CopyComplete
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\RGBControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\obj\Debug\RGBControlExample.csprojAssemblyReference.cache
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRGB.resources
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.GenerateResource.cache
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\obj\Debug\RGBControlExample.csproj.CopyComplete
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Карина\Desktop\14 триместр\Компонентное программирование\Лаб3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

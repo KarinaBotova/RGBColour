@@ -1,0 +1,24 @@
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.FileControl.resources
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+G:\практика 1. пользовательские элементы\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+G:\практика 1. пользовательские элементы\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+G:\практика 1. пользовательские элементы\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+G:\практика 1. пользовательские элементы\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+G:\практика 1. пользовательские элементы\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+G:\практика 1. пользовательские элементы\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.NumberTextBox.resources
+G:\практика 1. пользовательские элементы\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.RGBControl.resources
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.RGBControl.resources
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.NumberTextBox.resources
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

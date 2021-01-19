@@ -1,0 +1,50 @@
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Даша\source\repos\WindowsFormsControlLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Дахис\Универ\3 курс 1 триместр\КОП\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+G:\практика 1. пользовательские элементы\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRGB.resources
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Дахис\Универ\3 курс 1 триместр\КОП\лаба 1. RGB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
